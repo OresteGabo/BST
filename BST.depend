@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\muhir\videos\bst\main.cpp
+	<iostream>
+
+1607600794 source:c:\users\muhir\videos\bst\src\ noeud.cpp
+	" Noeud.h"
+
+1607600794 c:\users\muhir\videos\bst\include\ noeud.h
+
